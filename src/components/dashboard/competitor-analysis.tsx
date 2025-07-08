@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Search, TrendingUp, TrendingDown, Eye, Heart, MessageCircle, Share, Plus, Filter, MoreHorizontal } from "lucide-react";
+import { Search, TrendingUp, TrendingDown, Plus, Filter, MoreHorizontal } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";

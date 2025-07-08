@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { TrendingUp, TrendingDown, Eye, Heart, MessageCircle, Share, Calendar, Filter } from "lucide-react";
+import { TrendingUp, TrendingDown, Eye, Heart, Calendar, Filter } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
@@ -47,16 +47,6 @@ export function Analytics() {
     if (num >= 1000000) return `${(num / 1000000).toFixed(1)}M`;
     if (num >= 1000) return `${(num / 1000).toFixed(1)}K`;
     return num.toString();
-  };
-
-  const getMetricIcon = (metric: string) => {
-    switch (metric) {
-      case "views": return <Eye className="h-4 w-4" />;
-      case "likes": return <Heart className="h-4 w-4" />;
-      case "comments": return <MessageCircle className="h-4 w-4" />;
-      case "shares": return <Share className="h-4 w-4" />;
-      default: return <Eye className="h-4 w-4" />;
-    }
   };
 
   return (
