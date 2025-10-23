@@ -1,0 +1,2218 @@
+2025-10-20 02:50:15 | ERROR    | app.services.ai.script_generator:generate_script_from_video:81 | Error generating script: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-10-20 02:56:54 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The requested video chart is not supported or is not available.",
+    "errors": [
+      {
+        "message": "The requested video chart is not supported or is not available.",
+        "domain": "youtube.video",
+        "reason": "videoChartNotFound"
+      }
+    ]
+  }
+}
+
+2025-10-20 02:57:35 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The requested video chart is not supported or is not available.",
+    "errors": [
+      {
+        "message": "The requested video chart is not supported or is not available.",
+        "domain": "youtube.video",
+        "reason": "videoChartNotFound"
+      }
+    ]
+  }
+}
+
+2025-10-20 02:57:58 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The requested video chart is not supported or is not available.",
+    "errors": [
+      {
+        "message": "The requested video chart is not supported or is not available.",
+        "domain": "youtube.video",
+        "reason": "videoChartNotFound"
+      }
+    ]
+  }
+}
+
+2025-10-20 02:59:33 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The requested video chart is not supported or is not available.",
+    "errors": [
+      {
+        "message": "The requested video chart is not supported or is not available.",
+        "domain": "youtube.video",
+        "reason": "videoChartNotFound"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:01:52 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The requested video chart is not supported or is not available.",
+    "errors": [
+      {
+        "message": "The requested video chart is not supported or is not available.",
+        "domain": "youtube.video",
+        "reason": "videoChartNotFound"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:09 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:15 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:17 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:22 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:25 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:28 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:28 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:29 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:29 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:29 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:30 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:31 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:31 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:35 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:36 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:36 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:38 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:39 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:40 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:41 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:41 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:41 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:42 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:42 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:42 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:43 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:43 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:44 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:46 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:46 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:47 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:48 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:53 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:53 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:55 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:55 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:56 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:56 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:57 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:57 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:58 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:58 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:58 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:17:59 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:18:00 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:18:00 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:18:00 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:18:01 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:18:01 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:18:02 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:18:02 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:18:02 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:18:03 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:18:03 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:18:03 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:06 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:12 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:14 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:19 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:23 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:24 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:25 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:25 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:25 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:26 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:26 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:27 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:28 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:39 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:39 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:39 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:39 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:39 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:39 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:39 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:39 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:39 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:39 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:50 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:57 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:20:58 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:03 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:08 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:09 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:10 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:10 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:10 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:10 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:11 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:12 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:16 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:17 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:17 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:18 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:20 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:21 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:22 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:23 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:23 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:23 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:24 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:24 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:25 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:26 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:26 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:26 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:29 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:29 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:29 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:30 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:36 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:37 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:38 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:38 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:38 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:40 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:40 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:40 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:41 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:41 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:42 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:42 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:43 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:43 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:43 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:44 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:44 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:45 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:45 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:45 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:45 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:21:46 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:61 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 03:54:03 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:80 | Error fetching trending videos: name 'random' is not defined
+2025-10-20 03:54:10 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:80 | Error fetching trending videos: name 'random' is not defined
+2025-10-20 04:02:39 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:80 | Error fetching trending videos: name 'random' is not defined
+2025-10-20 04:02:42 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:80 | Error fetching trending videos: name 'random' is not defined
+2025-10-20 04:02:51 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:80 | Error fetching trending videos: name 'random' is not defined
+2025-10-20 04:58:40 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:80 | Error fetching trending videos: name 'random' is not defined
+2025-10-20 04:58:41 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:80 | Error fetching trending videos: name 'random' is not defined
+2025-10-20 05:00:11 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:80 | Error fetching trending videos: name 'random' is not defined
+2025-10-20 05:00:14 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:80 | Error fetching trending videos: name 'random' is not defined
+2025-10-20 05:03:27 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:66 | YouTube API error: 400 - {
+  "error": {
+    "code": 400,
+    "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+    "errors": [
+      {
+        "message": "The \u003ccode\u003eregionCode\u003c/code\u003e parameter specifies an invalid region code.",
+        "domain": "youtube.parameter",
+        "reason": "invalidRegionCode",
+        "location": "regionCode",
+        "locationType": "parameter"
+      }
+    ]
+  }
+}
+
+2025-10-20 05:08:17 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:83 | Error fetching trending videos: 
+2025-10-20 05:12:00 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:80 | Error fetching trending videos: name 'random' is not defined
+2025-10-20 05:12:00 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:80 | Error fetching trending videos: name 'random' is not defined
+2025-10-20 05:12:00 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:80 | Error fetching trending videos: name 'random' is not defined
+2025-10-20 05:12:00 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:80 | Error fetching trending videos: name 'random' is not defined
+2025-10-20 05:12:01 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:80 | Error fetching trending videos: name 'random' is not defined
+2025-10-20 05:12:31 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:80 | Error fetching trending videos: name 'random' is not defined
+2025-10-20 05:15:16 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:80 | Error fetching trending videos: name 'random' is not defined
+2025-10-20 05:16:33 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:80 | Error fetching trending videos: name 'random' is not defined
+2025-10-20 05:22:21 | ERROR    | app.services.social_media.youtube_trending:get_trending_videos:82 | Error fetching trending videos: 
